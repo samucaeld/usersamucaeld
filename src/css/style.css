@@ -1,0 +1,61 @@
+#cabecalho{
+    background-color: #21022d;
+    color: white;
+    padding: 8px 0px 8px 0px;
+    text-align: center;
+
+}
+
+#corpo{
+    background-color: #e2d8e7;
+    color: #21022d;
+    margin: 24px 24px;
+}
+
+#cardapio{
+    color: #21022d;
+    padding: 16px 0px 32px 16px;
+}
+img{
+    width: 150px;
+    height: 150px;
+    padding: 0px 0px 0px 64px;
+}
+#vitamina-de-abacate{
+    padding: 32px 0px 0px 64px;
+
+}
+p{
+    padding: 0px 0px 0px 64px;
+}
+#vitamina-de-acai{
+    padding: 32px 0px 0px 64px;
+}
+#vitamina-de-banana-com-aveia{
+    padding: 32px 0px 0px 64px;
+}
+#vitamina-de-morango{
+    padding: 32px 0px 0px 64px;
+}
+#vitamina-de-pessego{
+    padding: 32px 0px 0px 64px;
+}
+#vitamina-de-roma{
+    padding: 32px 0px 0px 64px;
+}
+#texto-final{
+    text-align: center;
+    padding: 64px 0px 32px 0px;
+
+}
+#imagem-final{
+    text-align: center;
+    font-size: 400%;
+    clear:both;
+}
+#texto-final1{
+    background-color:#21022d;
+    color: white;
+    text-align: center;
+    padding: 8px 0px 8px 0px;
+}
